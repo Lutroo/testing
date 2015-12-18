@@ -1,0 +1,207 @@
+@font-face {
+    font-family: 'robotothin';
+    src: url('../fonts/roboto-thin-webfont.eot');
+    src: url('../fonts/roboto-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-thin-webfont.woff2') format('woff2'),
+         url('../fonts/roboto-thin-webfont.woff') format('woff'),
+         url('../fonts/roboto-thin-webfont.ttf') format('truetype'),
+         url('../fonts/roboto-thin-webfont.svg#robotothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body{
+	margin: auto;
+	background: #ffffff;
+	font-family: 'robotothin';
+}
+
+.header{
+	background-color: #00a9e0;
+	height: 94px;
+}
+
+.container{
+	width: 1170px;
+	margin: auto;
+}
+
+.logo{
+	margin-top: 5px;
+	float: left;
+}
+
+.menu{
+	vertical-align: middle;
+	display: inline-block;	
+	font-size: 16px;	
+	float: left;
+}
+
+.menu span{
+	margin-left: 36px;
+	margin-right: 36px;
+}
+
+.header-right{
+	float: right;
+	margin-top: 39px;
+}
+a{
+	text-decoration: none;
+}
+
+.button{
+	vertical-align: middle;
+	display: inline-block;
+	float: left;
+	margin-top: -15px;
+}
+
+.button span{
+	margin-right: 10px;
+
+}
+
+.banner{
+	margin: auto;
+	position: relative;
+	height: 547px;
+	background-image: url('../images/bg.jpeg');
+}
+
+.post{
+	float: left;
+	margin-left: 330px;
+	margin-top: 249px;
+	}
+
+.job{
+	float: right;
+	margin-right: 311px;
+	margin-top: 247px;
+	
+}
+
+
+.word{
+	font-size: 40px;
+	color: #00a9e0;
+	margin-top: 77px;
+}
+
+.row{
+	height: 275px;
+}
+
+.column{
+	width: 25%;
+	float: left;
+}
+
+.footer-top{
+	background-color: #2e3137;
+	height: 318px;
+	margin-top: 157px;
+	color: white;
+	margin-bottom: -16px;
+
+}
+
+.column2{
+	width: 33.33%;
+	float: left;
+}
+
+.col1{
+	margin-right: 41px;
+}
+
+
+.title{
+	font-size: 35px;
+}
+
+.left{
+	width: 122px;
+	float: left;
+	margin-left: 58px;
+}
+
+.left-links{
+
+
+}
+
+a{
+	text-decoration: none;
+	color: white;	
+}
+
+.title-links{
+	margin-left: 76px;
+}
+
+.right{
+	width: 122px;
+	float: right;
+	margin-right: 76px;
+	vertical-align: 30px;
+}
+
+.right-links{
+	
+}
+
+.title-follow{
+
+}
+
+.col3{
+	width: 255px;
+
+
+}
+
+.name{
+	float: right;
+	vertical-align: middle;
+	display: inline-block;
+	width: 70px;
+}
+
+.footer-bottom{
+	background-color: #24262b;
+	height: 71px;
+	margin: auto;
+}
+
+.fb{
+	display: inline-block;
+	margin-top: 3px;
+}
+
+.twitter{
+	display: inline-block;
+	margin-top: 3px;
+}
+
+.linkedin{
+	display: inline-block;
+	margin-top: 30px;
+}
+
+.google{
+	display: inline-block;
+	margin-top: 30px;
+}
+
+.footer{
+	margin-top: 0;
+	height: 71px;
+
+}
+
+.terms{
+	color: black;
+}
